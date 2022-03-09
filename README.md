@@ -1,4 +1,4 @@
-## I'm Mohamed Mohamud, a full stack developer!
+## Hey! I'm Mohamed Mohamud, a full stack developer!
 
 ### Welcome to my GitHub world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">
 

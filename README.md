@@ -1,6 +1,6 @@
 ## Hey! I'm Mohamed Mohamud, a full stack developer!
 
-### Welcome to my GitHub world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">
+### Welcome to my GitHub!
 
 I'm currently looking for new opportunities after graduating from the School of Code! <img src="https://d33wubrfki0l68.cloudfront.net/e6fddcbea146f91d2f3c160f7d56a9391a4740b0/4e758/static/logo-51c754388b198e5bbb0d08a971ebbfa2.png" width="16px">
 
@@ -18,12 +18,13 @@ After deciding to empower myself through code, I've applied to and graduated fro
 <a href="https://mohamedmohamud.hashnode.dev/">
   <img align="left" alt="Mohamed Mohamud"  src="https://img.shields.io/static/v1?style=for-the-badge&message=Hashnode&color=2962FF&logo=Hashnode&logoColor=FFFFFF&label=" />
 </a>
-<a href="https://www.instagram.com/codewithmohamed/">
-  <img align="left" alt="Mohamed Mohamud" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" />
-</a>
 <a href="https://www.youtube.com/c/codewithmohamed">
-  <img alt="Mohamed Mohamud" src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" />
+  <img align="left"  alt="Mohamed Mohamud" src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" />
 </a>
+<a href="https://www.instagram.com/codewithmohamed/">
+  <img alt="Mohamed Mohamud" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" />
+</a>
+
 
 ## Tech Stack
 

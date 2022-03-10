@@ -71,6 +71,6 @@
 <img alt="github" src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
 ### Stats!
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithmohamed&hide=issues&show_icons=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmohamed&layout=compact" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithmohamed&hide=issues,stars&show_icons=true" alt="Mohamed's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmohamed&layout=compact" /> |
 | ------------- | ------------- |
 

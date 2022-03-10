@@ -70,5 +70,6 @@
 <img align="left" alt="git" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" />
 <img alt="github" src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
-<img width="80%" src ="https://github-readme-stats.vercel.app/api?username=codewithmohamed&show_icons=true&theme=radical" />
-<img width="60%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmohamed&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+#### Stats!
+<img width="80%" src ="https://github-readme-stats.vercel.app/api?username=codewithmohamed&hide=issues&show_icons=true" />
+<img width="60%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmohamed&layout=compact" />

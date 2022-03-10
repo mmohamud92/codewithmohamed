@@ -1,4 +1,4 @@
-## Hey 👋 ! 
+## Hey! 👋 
 ## I'm Mohamed Mohamud, a full stack developer!
 
 ### Welcome to my GitHub!

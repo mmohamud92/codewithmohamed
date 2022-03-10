@@ -1,4 +1,5 @@
-## Hey! I'm Mohamed Mohamud, a full stack developer!
+## Hey 👋 ! 
+## I'm Mohamed Mohamud, a full stack developer!
 
 ### Welcome to my GitHub!
 
@@ -6,7 +7,7 @@
 
 #### After deciding to empower myself through code, I've applied to and graduated from the School of Code and I am now looking for a place where I can grow as a developer and as a person. I also have a passion for making tech more accesssible to those from disadvantaged backgrounds! Checkout my [blog](https://mohamedmohamud.hashnode.dev/) and [YouTube Channel](https://www.youtube.com/c/codewithmohamed)!
 
-### My socials!
+### Connect with me!
 
 
 <a href="https://twitter.com/codewithmohamed">

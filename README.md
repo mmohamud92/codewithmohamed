@@ -2,9 +2,9 @@
 
 ### Welcome to my GitHub!
 
-I'm currently looking for new opportunities after graduating from the School of Code! <img src="https://d33wubrfki0l68.cloudfront.net/e6fddcbea146f91d2f3c160f7d56a9391a4740b0/4e758/static/logo-51c754388b198e5bbb0d08a971ebbfa2.png" width="16px">
+#### I'm currently looking for new opportunities after graduating from the School of Code! <img src="https://d33wubrfki0l68.cloudfront.net/e6fddcbea146f91d2f3c160f7d56a9391a4740b0/4e758/static/logo-51c754388b198e5bbb0d08a971ebbfa2.png" width="16px">
 
-After deciding to empower myself through code, I've applied to and graduated from the School of Code and I am now looking for a place where I can grow as a developer and as a person. I also have a passion for making tech more accesssible to those from disadvantaged backgrounds! Checkout my [blog](https://mohamedmohamud.hashnode.dev/) and [YouTube Channel](https://www.youtube.com/c/codewithmohamed)!
+#### After deciding to empower myself through code, I've applied to and graduated from the School of Code and I am now looking for a place where I can grow as a developer and as a person. I also have a passion for making tech more accesssible to those from disadvantaged backgrounds! Checkout my [blog](https://mohamedmohamud.hashnode.dev/) and [YouTube Channel](https://www.youtube.com/c/codewithmohamed)!
 
 ### My socials!
 

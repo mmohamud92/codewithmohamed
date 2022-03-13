@@ -5,7 +5,8 @@
 
 ### I'm currently looking for new opportunities after graduating from the School of Code! <img src="https://d33wubrfki0l68.cloudfront.net/e6fddcbea146f91d2f3c160f7d56a9391a4740b0/4e758/static/logo-51c754388b198e5bbb0d08a971ebbfa2.png" width="16px">
 
-### After deciding to empower myself through code, I've applied to and graduated from the School of Code and I am now looking for a place where I can grow as a developer and as a person. I also have a passion for making tech more accesssible to those from disadvantaged backgrounds! Checkout my [blog](https://mohamedmohamud.hashnode.dev/) and [YouTube Channel](https://www.youtube.com/c/codewithmohamed)!
+### After deciding to empower myself through code, I've applied to and graduated from the School of Code and I am now looking for a place where I can grow as a developer and as a person. I also have a passion for making tech more accesssible to those from disadvantaged backgrounds! 
+### Checkout my [blog](https://mohamedmohamud.hashnode.dev/) and [YouTube Channel](https://www.youtube.com/c/codewithmohamed)!
 
 ### Connect with me!
 
@@ -38,7 +39,6 @@
 
 ### Frontend
 <img align="left" alt="typescript" src ="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="react-router" src ="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 <img align="left" alt="next" src ="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img align="left" alt="Tailwind" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=" />
 <img align="left" alt="bootstrap" src ="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
